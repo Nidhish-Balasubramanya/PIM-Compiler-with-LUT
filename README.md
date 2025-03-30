@@ -117,13 +117,13 @@ README.md
 ![Webpage](Output%20Screenshots/Webpage-1.jpg)
 
  **Matrix Input:**  
-![Matrix Input](Output%20Screenshots/MATrix%20input.jpg)
+![Matrix Input](Output%20Screenshots/MAtrix%20input.jpg)
 
  **Generated Outputs:**
-* ![LLVM IR Output](Output%20Screenshots/matrix_ll_preview.jpg) - `matrix.ll`: LLVM IR output  
-* ![PIM ISA Instructions](Output%20Screenshots/ISA%20instructions.jpg) - `output_pPIM.isa`: PIM ISA instructions  
-* ![Binary PIM File](Output%20Screenshots/Binary%20ISA.jpg) - `pim_binary_output.bin`: Binary PIM file  
-* ![LUT Output](Output%20Screenshots/LUT_output.jpg) - `lut_output.txt`: LUT output  
+* ![LLVM IR Output](Output%20Screenshots/matrix_ll_preview.jpg) -  LLVM IR output  
+* ![PIM ISA Instructions](Output%20Screenshots/ISA%20instructions.jpg) -  PIM ISA instructions  
+* ![Binary PIM File](Output%20Screenshots/Binary%20ISA.jpg) - : Binary PIM file  
+* ![LUT Output](Output%20Screenshots/LUT_output.jpg) -  Look Up Table 
 
  **Downloads Available:**  
 ![Downloadable Files](Output%20Screenshots/downloadable%20files.jpg)
