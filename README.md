@@ -120,10 +120,10 @@ README.md
 ![Matrix Input](Output%20Screenshots/MAtrix%20input.jpg)
 
  **Generated Outputs:**
-* ![LLVM IR Output](Output%20Screenshots/matrix_ll_preview.jpg) -  LLVM IR output  
-* ![PIM ISA Instructions](Output%20Screenshots/ISA%20instructions.jpg) -  PIM ISA instructions  
-* ![Binary PIM File](Output%20Screenshots/Binary%20ISA.jpg) - : Binary PIM file  
-* ![LUT Output](Output%20Screenshots/LUT_output.jpg) -  Look Up Table 
+* **(1) LLVM IR Output**</br></br><img src="Output%20Screenshots/matrrix_ll_preview.jpg" alt="LLVM IR Output" width="450"> 
+* **(2) PIM ISA Instructions**</br></br><img src="Output%20Screenshots/ISA%20instructions.jpg" alt="PIM ISA Instructions" width="350">  
+* **(3) Binary PIM File**</br></br><img src="Output%20Screenshots/Binary%20ISA.jpg" alt="Binary PIM File" width="350">  
+* **(4) Look Up Table**</br></br><img src="Output%20Screenshots/LUT_output.jpg" alt="LUT Output" width="350">  
 
  **Downloads Available:**  
 ![Downloadable Files](Output%20Screenshots/downloadable%20files.jpg)
@@ -184,9 +184,9 @@ README.md
 ---
 
 ###  **Contributors**
-- **Nidhish Balsubramanya**
-- **Team Members:**
-
+- [Nidhish Balasubramanya](https://github.com/Nidhish-Balasubramanya) 
+- [Allen Reji](https://github.com/allen-reji)  
+- [A.Nathania Rachael](https://github.com/nathania-rachael)
 ---
 
  **Enjoy Using the PIM Compiler with LUT!!!**
