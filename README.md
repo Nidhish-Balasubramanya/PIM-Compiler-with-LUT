@@ -1,4 +1,4 @@
-### 📄 **PIM Compiler with LUT **
+### 📄 **PIM Compiler with LUT**
 
 ---
 
@@ -81,6 +81,7 @@ streamlit run app.py
 main.py
 requirements.txt
 README.md
+/Output Screenshots
 
 ```
 
