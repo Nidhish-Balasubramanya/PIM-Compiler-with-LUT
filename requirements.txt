@@ -1,0 +1,9 @@
+# Streamlit for the frontend UI
+streamlit
+
+# LLVM toolchain
+llvm
+clang
+
+# Python Libraries
+numpy
