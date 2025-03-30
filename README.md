@@ -1,8 +1,8 @@
-### 📄 **PIM Compiler with LUT**
+###  **PIM Compiler with LUT**
 
 ---
 
-### 🛠️ **Project Overview**
+###  **Project Overview**
 
 The **PIM Compiler with LUT** is a web-based application that allows users to upload C++ matrix multiplication programs and translate them into **Processing in Memory (PIM)** ISA (Instruction Set Architecture) instructions. The application offers the following functionalities:
 - Compilation of C++ matrix multiplication programs into **LLVM Intermediate Representation (IR)**.
@@ -14,7 +14,7 @@ The **PIM Compiler with LUT** is a web-based application that allows users to up
 
 ---
 
-### ⚙️ **Key Features**
+###  **Key Features**
 
 ✅ Upload C++ matrix multiplication programs (.cpp).  
 ✅ Define matrix dimensions and values through the UI.  
@@ -25,7 +25,7 @@ The **PIM Compiler with LUT** is a web-based application that allows users to up
 
 ---
 
-### 🔥 **Tech Stack Used**
+###  **Tech Stack Used**
 - **Frontend:** Streamlit (Python)  
 - **Backend:** Python  
 - **Compiler:** Clang for LLVM IR generation  
@@ -87,7 +87,7 @@ README.md
 
 ---
 
-### 🛠️ **Usage Instructions**
+###  **Usage Instructions**
 
 1. **Upload C++ Program:**  
    - On the Streamlit UI, upload your C++ matrix multiplication program (`.cpp` file).
@@ -111,26 +111,26 @@ README.md
 
 ---
 
-### 🔥 **Sample Screenshots**
+###  **Sample Screenshots**
 
-✅ **Web Interface:**  
-![PIM Compiler UI](uploads/UI-screenshot.jpg)  
+ **Web Interface:**  
+![Webpage](Output%20Screenshots/Webpage-1.jpg)
 
-✅ **Matrix Input:**  
-![Matrix Input](uploads/matrix-input.jpg)  
+ **Matrix Input:**  
+![Matrix Input](Output%20Screenshots/MATrix%20input.jpg)
 
-✅ **Generated Outputs:**  
-- `matrix.ll`: LLVM IR output  
-- `output_pPIM.isa`: PIM ISA instructions  
-- `pim_binary_output.bin`: Binary PIM file  
-- `lut_output.txt`: LUT output  
+ **Generated Outputs:**
+* ![LLVM IR Output](Output%20Screenshots/matrix_ll_preview.jpg) - `matrix.ll`: LLVM IR output  
+* ![PIM ISA Instructions](Output%20Screenshots/ISA%20instructions.jpg) - `output_pPIM.isa`: PIM ISA instructions  
+* ![Binary PIM File](Output%20Screenshots/Binary%20ISA.jpg) - `pim_binary_output.bin`: Binary PIM file  
+* ![LUT Output](Output%20Screenshots/LUT_output.jpg) - `lut_output.txt`: LUT output  
 
-✅ **Downloads Available:**  
-![Download Outputs](uploads/download-section.jpg)  
+ **Downloads Available:**  
+![Downloadable Files](Output%20Screenshots/downloadable%20files.jpg)
 
 ---
 
-### 🚀 **How It Works**
+###  **How It Works**
 
 1. **LLVM Compilation:**  
    - The uploaded `.cpp` file is compiled into LLVM IR using `clang`.  
@@ -146,7 +146,7 @@ README.md
 
 ---
 
-### ✅ **Output Files Explained**
+###  **Output Files Explained**
 
 1. **LLVM IR (`.ll`)**
    - Intermediate representation of the compiled C++ code.  
@@ -174,19 +174,19 @@ README.md
 
 ---
 
-### 📚 **Future Scope**
+###  **Future Scope**
 
-🚀 **Optimized Compilation:** Improve LLVM optimization passes for better performance.  
-🔧 **Multi-File Compilation:** Support for compiling multiple C++ files.  
-⚙️ **Expanded Instruction Set:** Add support for more complex PIM instructions.  
-🌐 **Cloud Deployment:** Deploy as a cloud-based compiler service.  
-
----
-
-### 🛠️ **Contributors**
-- **[Your Name]**
-- **[Other Team Members, if any]**
+ **Optimized Compilation:** Improve LLVM optimization passes for better performance.  
+ **Multi-File Compilation:** Support for compiling multiple C++ files.  
+ **Expanded Instruction Set:** Add support for more complex PIM instructions.  
+ **Cloud Deployment:** Deploy as a cloud-based compiler service.  
 
 ---
 
-✅ **Enjoy Using the PIM Compiler with LUT! 🎯**
+###  **Contributors**
+- **Nidhish Balsubramanya**
+- **Team Members:**
+
+---
+
+ **Enjoy Using the PIM Compiler with LUT!!!**
